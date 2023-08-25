@@ -1,0 +1,107 @@
+Atendimento Pet shop - veterinaria
+
+Cliente
+String nomeCompleto;
+int idade;
+String cpf;
+String endereço;
+String email;
+String telefone;
+
+
+abstract Animal
+String especieOUtipo;
+String nomeAnimal;
+String procedimento;
+String raça;
+int idade;
+double preço;
+
+
+Domestico
+
+
+
+
+
+
+Selvagem
+
+
+
+
+
+
+nomeqeualterei.getText;
+
+digitalocean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File f = new File("auxiliar.txt");
+
+try{
+
+FileOutputStream
+	
+
+
+
+gson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
